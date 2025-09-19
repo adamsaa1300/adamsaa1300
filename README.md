@@ -2,7 +2,7 @@
 
 💻 Passionate **C++ learner**  
 🎓 CAP Student @ An-Najah National University
-🌐 Owner of **CodeStan** Discord server  
+🌐 Owner of [**CodeStan**](https://discord.gg/4UcKmza59J) Discord server  
 🐧 Learning & exploring **Linux**  
 
 ---
@@ -25,7 +25,7 @@
 
 ## 📌 About Me  
 - 🚀 Exploring the world of programming step by step  
-- 📚 Studying **Computer Applications (CAP)** at An-Najah National University  
+- 📚 Studying **Computer Science Apprenticeship Program (CAP)** at An-Najah National University  
 - 👨‍💻 Running **CodeStan** – a bilingual (Arabic & English) programming community on Discord  
 - 🐧 Diving into the **Linux world** for development & practice  
 
