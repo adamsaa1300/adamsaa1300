@@ -9,12 +9,10 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+**Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+ 
+**Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**Tools:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
