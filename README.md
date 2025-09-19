@@ -45,8 +45,15 @@
 
 ## 🌍 Connect with Me  
 <p float="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" width="50" title="Discord" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="50" title="Gmail" />
+  <!-- زر Discord -->
+  <a href="https://discord.gg/4UcKmza59J" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" width="50" title="Discord" />
+  </a>
+
+  <!-- زر Gmail -->
+  <a href="mailto:adamsaa1300@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="50" title="Gmail" />
+  </a>
 </p>
  
 
