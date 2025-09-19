@@ -17,6 +17,7 @@
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" title="VS Code" />
+  <img src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg" width="50" title="Visual Studio Code" />
 </p>
 
 
