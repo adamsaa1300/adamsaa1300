@@ -19,30 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" title="VS Code" />
 </p>
 
-## 🛠️ Favorite Tech
-
-<p float="left">
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
-    <figcaption>C++</figcaption>
-  </figure>
-
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" />
-    <figcaption>Linux</figcaption>
-  </figure>
-
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" title="VS Code" />
-    <figcaption>VS Code</figcaption>
-  </figure>
-
-  <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" />
-    <figcaption>HTML5</figcaption>
-  </figure>
-</p>
-
 
 
 ---
