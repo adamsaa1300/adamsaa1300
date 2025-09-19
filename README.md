@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Adam!  
 
 💻 Passionate **C++ learner**  
-🎓 CAP Student @ ![An-Najah National University](https://img.shields.io/badge/An-Najah%20NU-003366?style=for-the-badge&logo=university&logoColor=white)  
+🎓 CAP Student @ An-Najah National University
 🌐 Owner of **CodeStan** Discord server  
 🐧 Learning & exploring **Linux**  
 
