@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Adam!  
 
-💻 Passionate **C++ learner**  
-🎓 CAP Student @ An-Najah National University
-🌐 Owner of [**CodeStan**](https://discord.gg/4UcKmza59J) Discord server  
-🐧 Learning & exploring **Linux**  
+- 💻 Passionate **C++ learner**  
+- 🎓 CAP Student @ An-Najah National University
+- 🌐 Owner of [**CodeStan**](https://discord.gg/4UcKmza59J) Discord server  
+- 🐧 Learning & exploring **Linux**  
 
 ---
 ## 🛠️ Tech Stack
