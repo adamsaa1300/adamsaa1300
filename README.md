@@ -44,8 +44,11 @@
 ---
 
 ## 🌍 Connect with Me  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4UcKmza59J)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamsaa1300@gmail.com)  
+<p float="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" width="50" title="Discord" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="50" title="Gmail" />
+</p>
+ 
 
 ---
 ⭐️ *"Keep coding, keep growing."*
