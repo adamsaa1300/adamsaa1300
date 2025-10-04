@@ -11,6 +11,7 @@
 **Languages:**  
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
 </p> 
  
 **Tools:**
